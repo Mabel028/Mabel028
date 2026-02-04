@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Mabel 👋
 
-<!--
-**Mabel028/Mabel028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate of a Higher Diploma in Software Development in Science and Cloud Computing, with a strong interest in **data analytics, databases, and SQL**.
 
-Here are some ideas to get you started:
+I enjoy working with structured data, designing relational databases, and extracting meaningful information using SQL queries. I am currently building my technical portfolio while seeking a **graduate or internship role in Data Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+- SQL (MySQL)
+- Database Design & ERD (Lucidchart)
+- Software Development fundamentals
+- Git & GitHub
+- Microsoft Office (Excel, Word, PowerPoint)
+
+-  Featured Projects
+Below are selected academic and personal projects that demonstrate my technical skills and problem-solving approach.
+
+I am motivated, adaptable, and keen to continue learning and developing within the technology sector.
+
+- 🌱 I’m currently learning python, power BI
+
+- 🤔 I’m looking for help with graduate or internship role opportunities in data analytics
+
+- email me @ mabel.asogwa@gmail.com
+
