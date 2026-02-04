@@ -2,7 +2,9 @@
 
 I am a recent graduate of a Higher Diploma in Software Development in Science and Cloud Computing, with a strong interest in **data analytics, databases, and SQL**.
 
-I enjoy working with structured data, designing relational databases, and extracting meaningful information using SQL queries. I am currently building my technical portfolio while seeking a **graduate or internship role in Data Analytics**.
+I enjoy working with structured data, designing relational databases, and extracting meaningful 
+information using SQL queries. I am currently building my technical portfolio while seeking 
+a **graduate or internship role in Data Analytics**.
 
 Technical Skills
 - SQL (MySQL)
@@ -11,8 +13,10 @@ Technical Skills
 - Git & GitHub
 - Microsoft Office (Excel, Word, PowerPoint)
 
--  Featured Projects
-Below are selected academic and personal projects that demonstrate my technical skills and problem-solving approach.
+ ### Featured Project
+[Database Design and SQL Project](https://github.com/Mabel028/database_and_sql_project)  
+Relational database design, CRUD operations, and Codd's rules demonstration.
+
 
 I am motivated, adaptable, and keen to continue learning and developing within the technology sector.
 
