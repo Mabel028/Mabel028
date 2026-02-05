@@ -1,12 +1,12 @@
 ## Hi, I'm Mabel 👋
 
-I am a recent graduate of a Higher Diploma in Software Development in Science and Cloud Computing, with a strong interest in **data analytics, databases, and SQL**.
+I am a recent graduate of a Higher Diploma in Science in Software Development, with a strong interest in **data analytics, databases, and SQL**.
 
 I enjoy working with structured data, designing relational databases, and extracting meaningful 
 information using SQL queries. I am currently building my technical portfolio while seeking 
 a **graduate or internship role in Data Analytics**.
 
-Technical Skills
+## Technical Skills
 - SQL (MySQL)
 - Database Design & ERD (Lucidchart)
 - Software Development fundamentals
