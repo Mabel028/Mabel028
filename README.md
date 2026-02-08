@@ -16,6 +16,7 @@ a **graduate or internship role in Data Analytics**.
  ### Featured Project
 [Database Design and SQL Project](https://github.com/Mabel028/database_and_sql_project)  
 Relational database design, CRUD operations, and Codd's rules demonstration.
+- [Healthcare Appointments Database, SQL and excel Project](https://github.com/Mabel028/healthcare-appointments-database-and-sql)
 
 
 I am motivated, adaptable, and keen to continue learning and developing within the technology sector.
